@@ -6,6 +6,17 @@
 
 
 
+.dark-red-buttun {
+  background-color: #3d0000;
+}
+
+
+
+.burnt-maroon-buttun {
+  background-color: #878787;
+}
+
+
 .card {
   background-color:rgba(247, 247, 250, 1);
   list-style: none;
